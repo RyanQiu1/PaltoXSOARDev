@@ -25,7 +25,7 @@ Palo Alto Networks Cortex XSOAR is a comprehensive Security Orchestration, Autom
 
 These APIs allow users to interact with the cortex XSOAR server, to read data, update data etc using REST.
 
-[Here](/PaltoXSOARDev/Files/Palto%20Alto%20APIs.csv) in this CSV file
+[Here](/PaltoXSOARDev/Files/Palto%20Alto%20APIs.csv) in this CSV file, are the APIs of the XSOAR server we can interact with.
 
 
 
@@ -33,7 +33,7 @@ These APIs allow users to interact with the cortex XSOAR server, to read data, u
 
 Cortex XSOAR currently utilizes Amazon Web Services (AWS) for the hosted service. Each customer has a dedicated instance on which workloads run on dedicated resources (compute, storage, network) according to advanced security standards (SOC2, ISO 27001).
 
-![Alt text](image.png)
+![Alt text](./Images/Cortex_XSOAR_infra.png)
 
 You can designate a Cortex XSOAR region for the storage and processing of your data. Available AWS regions are: AWS-California, AWS-Oregon, AWS-Virginia, AWS-Ohio, AWS-Frankfurt, AWS-London, AWS-Sydney, AWS-Mumbai, AWS-Singapore, AWS-Tokyo, and AWS-Canada. Additional regions may be added in the future. 
 
