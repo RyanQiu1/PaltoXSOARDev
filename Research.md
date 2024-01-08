@@ -25,7 +25,7 @@ Palo Alto Networks Cortex XSOAR is a comprehensive Security Orchestration, Autom
 
 These APIs allow users to interact with the cortex XSOAR server, to read data, update data etc using REST.
 
-[Here](/PaltoXSOARDev/Files/Palto%20Alto%20APIs.csv) in this CSV file, are the APIs of the XSOAR server we can interact with.
+[Here](./Files/Palto%20Alto%20APIs.csv) in this CSV file, are the APIs of the XSOAR server we can interact with.
 
 
 
