@@ -45,6 +45,19 @@ The overview of the full architecture will look like this.
 ![Alt text](./Images/Overview.png)
 
 
+## XSOAR 8 vs XSOAR 6
+- Rearchitectured XSOAR 8 with improved features
+- [Here](https://docs-cortex.paloaltonetworks.com/r/Cortex-XSOAR/8/Cortex-XSOAR-8-Feature-Changes) for feature changes on XSOAR 8 compared to XSOAR 6
+- API Changes
+
+| Feature | Comments |
+|---| -------|
+|API Key  |Standard and Advanced keys: You can create Standard or Advanced Keys (default is Advanced).Standard keys can be used via CURL, and still require the key in the authorization header, but also require an additional header (x-xdr-auth-id) with the value of the key ID, if using a Standard key.Advanced keys require a nonce to prevent replay attacks which is sent in headers. |
+|API Structure | The API is now like Cortex XDR, where the API is not the server URL, but rather: api-{tenant}/public_api/v1/{name of api}/{name of call}.Example of an old API Call with server URL: curl 'https://hostname:443/incidents/search' Example of a new API Call with API URL: curl -X POST https://api-{fqdn}/xsoar/{name of api}/{name of call}/|
+
+
+
+
 ### References:
 - https://wix.com/encyclopedia/definition/hosted-services
 - https://xsoar.pan.dev/docs/reference/api/common-server-python
