@@ -40,6 +40,11 @@ You can designate a Cortex XSOAR region for the storage and processing of your d
 ![alt-image](./Images/Palto%20Alto%20Infra.png)
 
 
+The overview of the full architecture will look like this.
+
+![Alt text](./Images/Overview.png)
+
+
 ### References:
 - https://wix.com/encyclopedia/definition/hosted-services
 - https://xsoar.pan.dev/docs/reference/api/common-server-python
