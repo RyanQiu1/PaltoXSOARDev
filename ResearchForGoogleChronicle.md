@@ -6,7 +6,7 @@ Chronicle SOAR collects data from various security sources such as network devic
 
 The platform provides an intuitive user interface that allows security analysts to investigate incidents, create workflows, and automate response actions without requiring extensive coding knowledge. Chronicle SOAR also uses machine learning to improve its accuracy and speed in identifying and responding to security incidents. The platform's automated response capabilities help organizations to reduce the time taken to detect and respond to security threats, thereby reducing the risk of data breaches and other security incidents.
 
-Chronicle SOAR is a powerful security orchestration, automation, and response platform that helps organizations to enhance their security posture by automating security workflows, reducing response times, and improving the accuracy of security operations
+Chronicle SOAR is a powerful security orchestration, automation, and response platform that helps organizations to enhance their security posture by automating security workflows, reducing response times, and improving the accuracy of security operations.
 
 
 ![Alt text](image.png)
@@ -14,7 +14,10 @@ Chronicle SOAR is a powerful security orchestration, automation, and response pl
 
 ## CSV for APIs
 
-[Here](./Files/GoogleChronicleAPIs.xlsm) for the CSV of google chronicle APIs
+[Here](./Files/GoogleChronicleAPIs.xlsm) for the CSV of google chronicle APIs.
+
+## Issues
+If there are any issues with the API or using them, can go to [this](https://www.googlecloudcommunity.com/gc/SOAR-Forum/) website.
 
 ### References
 - https://cloud.google.com/chronicle/docs/soar/marketplace-integrations
@@ -22,4 +25,5 @@ Chronicle SOAR is a powerful security orchestration, automation, and response pl
 - https://japac-ce-demo.siemplify-soar.com/swagger/index.html
 - https://cloud.google.com/chronicle/docs/soar/reference/working-with-chronicle-soar-apis
 - https://chronicle.security/solutions/service-providers/
+- https://www.googlecloudcommunity.com/gc/SOAR-Forum/SOAR-API-endpoint-api-external-v1-logging-python/m-p/677076#M1962
 
