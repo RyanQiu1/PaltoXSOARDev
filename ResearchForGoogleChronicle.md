@@ -16,5 +16,10 @@ Chronicle SOAR is a powerful security orchestration, automation, and response pl
 
 [Here](./Files/GoogleChronicleAPIs.xlsm) for the CSV of google chronicle APIs
 
-
+### References
+- https://cloud.google.com/chronicle/docs/soar/marketplace-integrations
+- https://chronicle.security/suite/soar/?gad_source=1&gclid=CjwKCAiA1-6sBhAoEiwArqlGPq6qhWgPEGVW33ZoHmiV48s5kN7vieOqzoD0vm5c3muR7cSd18zwzRoCTBoQAvD_BwE#resources
+- https://japac-ce-demo.siemplify-soar.com/swagger/index.html
+- https://cloud.google.com/chronicle/docs/soar/reference/working-with-chronicle-soar-apis
+- https://chronicle.security/solutions/service-providers/
 
